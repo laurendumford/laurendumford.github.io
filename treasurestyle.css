@@ -1,0 +1,39 @@
+h1 {
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  font-family: fantasy;
+}
+#skeleton {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+li {
+  text-align: center;
+  font-family: monospace;
+  list-style-position: inside;
+  font-size: large;
+}
+table, td {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 8px solid black;
+}
+.center {
+  display: flex;
+      align-content: center;
+      justify-content: center;
+      align-items: center;
+}
+body {
+  background-image: url("candycorn.png");
+  background-color: #f5bca0;
+}
+.button {
+  background-color: #5e32ba;
+  font-size: 35px;
+  color: white;
+  font-family: fantasy;
+}
